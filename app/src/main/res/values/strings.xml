@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quarantine Movies and Series</string>
+
+    <string name="title_activity_main_menu">Quarantine Movies and Series</string>
+
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">Series</string>
+
+    <string name="featured_movies">Featured movies</string>
+    <string name="new_arrivals_movies">New arrivals</string>
+
+    <string name="search_hint">What movie are you looking for?</string>
+
+
+    <string name="error_loading_movie">Error: We weren\'t able to load 1 movie</string>
+    <string name="error_loading_movies">movies weren\'t loaded</string>
+
+</resources>
